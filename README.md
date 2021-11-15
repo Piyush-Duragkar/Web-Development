@@ -1,0 +1,2 @@
+# cursedcode
+learning web development 
