@@ -1,0 +1,44 @@
+<html>
+  <form action="https://google.co.in">
+  <div align="center">
+  <h2 align="center">Self acknowledge form</h2><br>
+  <div align="center">
+  <label>Enter your name</label>  
+    <input placeholder="xyz" type="text"></input></div><br>
+
+<div align="center">
+  <label>Age</label>
+  <input type="number" placeholder="00"></input>
+</div><br>
+
+<div  align="center">
+  <label>Contact Number</label>
+  <input type="number" placeholder="0123456789" ></input>
+</div><br>
+
+<label> Enter your relaxing habits</label>
+<select >
+  <option value="student">Student</option>
+  <option value="employee">Employee</option>
+  <option value="Self employeed">Self-Employed</option></select>
+  
+  
+<br><br><label> Add your description</label>
+<textarea placeholder="word limit=300" maxlenght="300"></textarea><br>
+
+<br><label> Preffered work location</label>
+<input type="radio" value=1> Office
+<input type="radio" value=2> Home<br><br>
+
+<label>Enter your relaxing habits</label>
+<input type="checkbox" value=1>Books
+<input type="checkbox" value=2>Movies
+<input type="checkbox" vallue=3>Outdoor
+<input type="checkbox" value=4>Digital Devices
+
+<br><br><button>Submit</button>
+
+  
+  
+</div>
+</form></html>
