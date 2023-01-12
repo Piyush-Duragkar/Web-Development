@@ -1,0 +1,55 @@
+body{
+    background: rgb(164, 222, 220);
+  }
+  .grid-container1{
+    border: 1px solid rgb(0,0,0);
+    margin: 0px;
+  /*   padding:15px; */
+    height: 400px;
+    width: 100%;
+  }
+  .look{
+   float: right;
+  /*   color: red; */
+    font-style: italic;
+    transition: color 100ms ease-in-out;
+  }
+  .grid-container{
+    background: rgb(200, 260, 260);
+    margin-left: 10px;
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto;
+    grid-template-rows: auto;
+    justify-content: space-around;
+  /*   grid-column-gap: 40px;
+    grid-row-gap: 50px; */
+    grid-gap: 40px 10px;
+    }
+  .grid-item{
+    background: pink;
+    width: 50px;
+    font-size: 25px;
+    text-align: center;
+    transition:all 450ms linear;
+  }
+  .grid-item:hover{
+    background:steelblue;
+    padding: 10px 10px;
+    transform:rotate(360deg);
+  }
+  .look:hover{
+    color:red;
+  }
+  #cont{
+    animation-name: first;
+    animation-duration: 1s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+    animation-direction: alternate-reverse;
+  }
+  @keyframes first{
+    0%{ background: white;}
+    100%{ background:lightblue;}
+  }
+  
+  
