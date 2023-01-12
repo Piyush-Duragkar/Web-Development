@@ -1,0 +1,103 @@
+<html>
+
+ <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+
+  
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-sm-2 col-sm-12">
+            <nav id="navbar">
+                <h3>Information on Wolf</h3>
+               
+                <ul class="nav nav-pills nav-stacked">
+          
+                    <a class="nav-link" href="#Introduction" rel="internal">
+                        <li>Introduction</li>
+                    </a>
+                    <a class="nav-link" href="#Description" rel="internal">
+                        <li>Description</li>
+                    </a>
+                    <a class="nav-link" href="#Evolution" rel="internal">
+                        <li>Evolution</li>
+                    </a>
+                    <a class="nav-link" href="#Topic_1" rel="internal">
+                        <li>Topic 1</li>
+                    </a>
+                    <a class="nav-link" href="#References" rel="internal">
+                        <li>References</li>
+                    </a>
+                 </ul>
+            </nav>
+        </div>
+        <div class="col-md-10 col-sm-12">
+            <main id="main-doc">
+                <section class="main-section" id="Introduction" >
+                    <h3 style="background:black; color: white">Introduction</h3>
+                    <p>
+                    <p>The wolf, also known as the gray wolf or grey wolf, is a large canine native to Eurasia and North America.
+                         More than thirty subspecies of Canis lupus have been recognized, and gray wolves, as popularly understood, comprise wild subspecies.
+                          The wolf is the largest extant member of the family Canidae.
+                          It is also distinguished from other Canis species by its less pointed ears and muzzle, as well as a shorter torso and a longer tail.
+                           The wolf is nonetheless related closely enough to smaller Canis species, such as the coyote and the golden jackal,
+                            to produce fertile hybrids with them. The banded fur of a wolf is usually mottled white, brown, gray, and black,
+                             although subspecies in the arctic region may be nearly all white.
+                        </p>
+                </section>
+                <section class="main-section" id="Description">
+                    <h3 style = "background: black; color: white">Description</h3>
+                    
+                        <p>The wolf is the largest extant member of the Canidae family, and is further distinguished from coyotes and jackals by a broader snout,
+                             shorter ears, a shorter torso and a longer tail. It is slender and powerfully built, with a large, deeply descending rib cage,
+                              a sloping back, and a heavily muscled neck. The wolf's legs are moderately longer than those of other canids, which enables
+                               the animal to move swiftly, and to overcome the deep snow that covers most of its geographical range in winter.
+                                The ears are relatively small and triangular. The wolf's head is large and heavy, with a wide forehead, strong jaws and a long,
+                                 blunt muzzle. The skull is 230–280 mm (9–11 in) in length and 130–150 mm (5–6 in) in width. The teeth are heavy and large,
+                                  making them better suited to crushing bone than those of other canids. They are not as specialized as those found in hyenas though.
+                                   Its molars have a flat chewing surface, but not to the same extent as the coyote, whose diet contains more vegetable matter.
+                                   Females tend to have narrower muzzles and foreheads, thinner necks, slightly shorter legs, and less massive shoulders than males.</p>
+ 
+                </section>
+              
+                <section class="main-section" id="Evolution">
+                    <h3 style = "background: black; color: white">Evolution</h3>
+                        <p>The phylogenetic descent of the extant wolf C. lupus from C. etruscus through C. mosbachensis is widely accepted.
+                             The earliest fossils of C. lupus were found in what was once eastern Beringia at Old Crow, Yukon, Canada, and at Cripple Creek Sump,
+                              Fairbanks, Alaska. The age is not agreed upon but could date to one million years ago.
+                               Considerable morphological diversity existed among wolves by the Late Pleistocene. They had more robust skulls and teeth than modern wolves,
+                                often with a shortened snout, a pronounced development of the temporalis muscle, and robust premolars.
+                                 It is proposed that these features were specialized adaptations for the processing of carcass and bone associated with the
+                                  hunting and scavenging of Pleistocene megafauna. Compared with modern wolves, some Pleistocene wolves showed an increase in tooth breakage
+                                   similar to that seen in the extinct dire wolf. This suggests they either often processed carcasses, or that they competed with other
+                                    carnivores and needed to consume their prey quickly. Compared with those found in the modern spotted hyena, the frequency and location of
+                                     tooth fractures in these wolves indicates they were habitual bone crackers.</p>
+                        <p>Genomic studies suggest modern wolves and dogs descend from a common ancestral wolf population that existed 20,000 years ago.
+                             A 2021 study found that the Himalayan wolf and the Indian plains wolf are part of a lineage that is basal to other wolves and split from
+                              them 200,000 years ago. Other wolves appear to have originated in Beringia in an expansion that was driven by the huge ecological
+                               changes during the close of the Late Pleistocene. A study in 2016 indicates that a population bottleneck was followed by a rapid
+                                radiation from an ancestral population at a time during, or just after, the Last Glacial Maximum. This implies the original
+                                 morphologically diverse wolf populations were out-competed and replaced by more modern wolves.</p>
+                        <p>A 2016 genomic study suggests that Old World and New World wolves split around 12,500 years ago followed by the divergence
+                             of the lineage that led to dogs from other Old World wolves around 11,100–12,300 years ago. An extinct Late Pleistocene
+                              wolf may have been the ancestor of the dog, with the dog's similarity to the extant wolf being the result of genetic
+                               admixture between the two. The dingo, Basenji, Tibetan Mastiff and Chinese indigenous breeds are basal members of the domestic
+                                dog clade. The divergence time for wolves in Europe, the Middle East, and Asia is estimated to be fairly recent at around 1,600 years ago.
+                                 Among New World wolves, the Mexican wolf diverged around 5,400 years ago.</p>
+
+                </section>
+                <section class="main-section" id="Topic_1">
+                    <h3 style = "background: black; color: white">Topic 1</h3>
+        
+                        Getting started with the actual documentation content
+                        <code class="jk">This would come in a different color and font indicating lines of code.
+                        </code>
+                </section>
+              
+                <section class="main-section" id="References">
+                    <h3 style = "background: black; color: white">References</h3>
+                    <p>This information has been obtanined from <a href="https://en.wikipedia.org/wiki/Wolf#cite_note-Thalmann2018-18">wikipedia.</a></p>
+                </section>
+            </main>
+        </div>
+    </div>
+</div>
+</html>
